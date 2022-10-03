@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="240" height="12" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="Cueva.tsx"/>
+ <layer id="1" name="Capa de patrones 1" width="240" height="12">
+  <data encoding="base64" compression="zlib">
+   eJzt08EJwzAQRNElUq52U3JnSWOx1Je3hMQQhOA9mPtcftsijhywnle2+9YvLKlnu0O/sKS6Rzz32S+AO5p2AQDga58SceZ6bpTZb4BfPGpEydU6+wkAAAD8zwVCEwcZ
+  </data>
+ </layer>
+</map>
